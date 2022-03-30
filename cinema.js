@@ -56,3 +56,5 @@ const listarFilmesEmCartaz = () => filmes.filter(function (filme) {
 })
 
 console.table(listarFilmesEmCartaz()) 
+
+console.log(cinema)
